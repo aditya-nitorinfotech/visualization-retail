@@ -46,7 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## To Run: 
-Clone project 
-run command- npm install on project root folder
-then run npm start
+Clone project <br/>
+run command- npm install on project root folder <br/>
+then run- npm start <br/>
 If browser not launched automatically, check on URL: http://localhost:3000
